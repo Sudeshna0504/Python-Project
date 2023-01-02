@@ -1,0 +1,16 @@
+Name of the student :D
+Class Roll of the student :54
+Stream of the student :CSE
+Your Batch ID is:CSE22
+Your Student ID is :CSE2254
+
+Marks obtained in Python is :89
+Marks obtained in Math is :89
+Marks obtained in Physics is :89
+Marks obtained in Chemistry is :89
+Marks obtained in Biology is :89
+Marks obtained in English is :89
+Marks obtained in BEE is :89
+Marks obtained in Mechanical Engineering is :89
+Total marks:712 Percentage:89.0%
+You have passed with grade B
